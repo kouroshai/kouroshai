@@ -40,8 +40,22 @@ I started my journey in programming with frontend development and later explored
 
 ## `Activity`
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kouroshai&show_icons=true&theme=swift" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshai&layout=compact&theme=swift" />
-</div>
+<section align="center">
+  <a href= "https://github.com/kouroshai" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kouroshai&theme=slateorange" width="300">
+  </a>
+</section>
+
+<section align="center">
+  <a href="https://github.com/kouroshai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouroshai&theme=slateorange" width="600">
+  </a>
+</section>
+
+<section align="center">
+  <a href= "https://github.com/kouroshai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kouroshai&theme=slateorange" width="300">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kouroshai&theme=slateorange" width="300">
+  </a>
+</section>
 
